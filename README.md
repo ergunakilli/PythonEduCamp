@@ -1,1 +1,2 @@
 # PythonEduCamp *** 
+# for courses
